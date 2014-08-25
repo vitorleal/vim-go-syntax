@@ -1,0 +1,6 @@
+{
+  "name": "vim-go-syntax",
+  "description": "Full featured Go (golang) support for Vim. Contains official misc/vim files.",
+  "author": "Vitor Leal <vitorleal1@gmail.com>",
+  "repository" : {"type": "git", "url": "https://github.com/vitorleal/vim-go-syntax.git"}
+}
